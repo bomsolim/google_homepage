@@ -1,0 +1,1 @@
+Learning the basics of HTML and CSS and modifying the Google Homepage to test out different combinations
